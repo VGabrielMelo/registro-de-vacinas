@@ -17,7 +17,7 @@
 14 - Fazer deploy da aplicação na cloud do Heroku.
 
 ## Modelo de dados:
-(Imagem Tabelas)
+![Imagem_Tabelas](https://github.com/VGabrielMelo/registro-de-vacinas-seq/blob/main/Imagens/Tabelas.png)
 
 Para installar as dependências do projeto, basta rodar comando: __npm install__
 
